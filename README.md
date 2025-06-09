@@ -15,6 +15,7 @@ The retail client is in the early stages of market expansion and seeks clarity o
 4. **What factors influence campaign acceptance and purchase behavior?**
 
 ---
+# Report View
 
 <img width="761" alt="Image" src="https://github.com/user-attachments/assets/4cd73a14-4f6f-4a2d-8c06-bce01dc03391" />
 
